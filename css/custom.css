@@ -154,3 +154,8 @@
 }
 /* 自定义底部  End */
 
+/*横向滚动条BUG*/
+#drone .container {
+    overflow: hidden;
+}
+
